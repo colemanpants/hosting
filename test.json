@@ -1,0 +1,78 @@
+{
+  "virtual_currency": null,
+  "virtual_items": null,
+  "bundles": [
+    {
+      "sku": "BundleProBundleMk2",
+      "type": "bundle",
+      "name": {
+        "en": "Pro Bundle Mk. II",
+        "de": "Pro Bundle Mk. II",
+        "es": "Pro Bundle Mk. II",
+        "es-ES": "Pro Bundle Mk. II",
+        "fr": "Pro Bundle Mk. II",
+        "id": "Pro Bundle Mk. II",
+        "it": "Pro Bundle Mk. II",
+        "ja": "Pro Bundle Mk. II",
+        "ko": "Pro Bundle Mk. II",
+        "pt": "Pro Bundle Mk. II",
+        "ru": "Pro Bundle Mk. II",
+        "th": "Pro Bundle Mk. II",
+        "vi": "Pro Bundle Mk. II",
+        "zh": "Pro Bundle Mk. II",
+        "zh-Hant": "Pro Bundle Mk. II"
+      },
+      "bundle_type": null,
+      "description": {
+        "en": "Contents:\n  5000 Collector's Tokens\n  11000 Credits\n  Title: \"100% Beef\"\n  5x 155 Random Boosters\n",
+        "de": "Contents:\n  5000 Collector's Tokens\n  11000 Credits\n  Title: \"100% Beef\"\n  5x 155 Random Boosters\n",
+        "es": "Contents:\n  5000 Collector's Tokens\n  11000 Credits\n  Title: \"100% Beef\"\n  5x 155 Random Boosters\n",
+        "es-ES": "Contents:\n  5000 Collector's Tokens\n  11000 Credits\n  Title: \"100% Beef\"\n  5x 155 Random Boosters\n",
+        "fr": "Contents:\n  5000 Collector's Tokens\n  11000 Credits\n  Title: \"100% Beef\"\n  5x 155 Random Boosters\n",
+        "id": "Contents:\n  5000 Collector's Tokens\n  11000 Credits\n  Title: \"100% Beef\"\n  5x 155 Random Boosters\n",
+        "it": "Contents:\n  5000 Collector's Tokens\n  11000 Credits\n  Title: \"100% Beef\"\n  5x 155 Random Boosters\n",
+        "ja": "Contents:\n  5000 Collector's Tokens\n  11000 Credits\n  Title: \"100% Beef\"\n  5x 155 Random Boosters\n",
+        "ko": "Contents:\n  5000 Collector's Tokens\n  11000 Credits\n  Title: \"100% Beef\"\n  5x 155 Random Boosters\n",
+        "pt": "Contents:\n  5000 Collector's Tokens\n  11000 Credits\n  Title: \"100% Beef\"\n  5x 155 Random Boosters\n",
+        "ru": "Contents:\n  5000 Collector's Tokens\n  11000 Credits\n  Title: \"100% Beef\"\n  5x 155 Random Boosters\n",
+        "th": "Contents:\n  5000 Collector's Tokens\n  11000 Credits\n  Title: \"100% Beef\"\n  5x 155 Random Boosters\n",
+        "vi": "Contents:\n  5000 Collector's Tokens\n  11000 Credits\n  Title: \"100% Beef\"\n  5x 155 Random Boosters\n",
+        "zh": "Contents:\n  5000 Collector's Tokens\n  11000 Credits\n  Title: \"100% Beef\"\n  5x 155 Random Boosters\n",
+        "zh-Hant": "Contents:\n  5000 Collector's Tokens\n  11000 Credits\n  Title: \"100% Beef\"\n  5x 155 Random Boosters\n"
+      },
+      "image_url": "",
+      "regional_prices": null,
+      "prices": [
+        {
+          "amount": 99.99,
+          "currency": "USD",
+          "is_default": true,
+          "is_enabled": true
+        }
+      ],
+      "virtual_prices": null,
+      "is_enabled": true,
+      "is_show_in_store": true,
+      "regions": null,
+      "limits": {
+        "per_user": 1,
+        "per_item": null,
+        "recurrent_schedule": null
+      },
+      "periods": [
+        {
+          "date_from": "2023-08-02T03:00:00Z",
+          "date_until": "2023-08-08T03:00:00Z"
+        }
+      ],
+      "custom_attributes": null,
+      "attributes": null,
+      "long_description": null,
+      "media_list": null,
+      "order": 0,
+      "is_free": false,
+      "groups": null,
+      "content": null
+    }
+  ]
+}
